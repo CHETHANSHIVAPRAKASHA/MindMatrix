@@ -1,0 +1,49 @@
+com.example.santepriceindex.app-customview-poolingcontainer-1.0.0-0 C:\Users\manoj\.gradle\caches\9.0.0\transforms\01f8caf1ed486b49e7165dc2500848ca\transformed\customview-poolingcontainer-1.0.0\res
+com.example.santepriceindex.app-activity-compose-1.8.2-1 C:\Users\manoj\.gradle\caches\9.0.0\transforms\042b916182dec8bc13b8c66755572b8f\transformed\activity-compose-1.8.2\res
+com.example.santepriceindex.app-profileinstaller-1.3.0-2 C:\Users\manoj\.gradle\caches\9.0.0\transforms\0710e329e015020c92677c4986ca7368\transformed\profileinstaller-1.3.0\res
+com.example.santepriceindex.app-lifecycle-process-2.7.0-3 C:\Users\manoj\.gradle\caches\9.0.0\transforms\0a229fabdc2a03d67cb5c46241022ac5\transformed\lifecycle-process-2.7.0\res
+com.example.santepriceindex.app-runtime-saveable-release-4 C:\Users\manoj\.gradle\caches\9.0.0\transforms\0b1ffc4b12a9ec6ffb19b7002ebc00e2\transformed\runtime-saveable-release\res
+com.example.santepriceindex.app-material3-release-5 C:\Users\manoj\.gradle\caches\9.0.0\transforms\0da34e801641475d2e965f95117dfcab\transformed\material3-release\res
+com.example.santepriceindex.app-activity-ktx-1.8.2-6 C:\Users\manoj\.gradle\caches\9.0.0\transforms\1796fd9a6368425465c84e104f43b2bb\transformed\activity-ktx-1.8.2\res
+com.example.santepriceindex.app-savedstate-ktx-1.2.1-7 C:\Users\manoj\.gradle\caches\9.0.0\transforms\1fedd49e204208916e49fe7edb796c9e\transformed\savedstate-ktx-1.2.1\res
+com.example.santepriceindex.app-lifecycle-runtime-ktx-2.7.0-8 C:\Users\manoj\.gradle\caches\9.0.0\transforms\21bd3d2bcef315236a76cd737d7e3ba7\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.santepriceindex.app-ui-geometry-release-9 C:\Users\manoj\.gradle\caches\9.0.0\transforms\3cb78fd244dc3d842db65dc8249b634b\transformed\ui-geometry-release\res
+com.example.santepriceindex.app-lifecycle-viewmodel-2.7.0-10 C:\Users\manoj\.gradle\caches\9.0.0\transforms\3e7a380c0add2d7789df75082b119ce2\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.santepriceindex.app-core-1.12.0-11 C:\Users\manoj\.gradle\caches\9.0.0\transforms\48581c2ebd1344df8d5c63ff171f905a\transformed\core-1.12.0\res
+com.example.santepriceindex.app-material-icons-extended-release-12 C:\Users\manoj\.gradle\caches\9.0.0\transforms\48a01ba2aa48e80da5530c47968addbf\transformed\material-icons-extended-release\res
+com.example.santepriceindex.app-annotation-experimental-1.4.0-13 C:\Users\manoj\.gradle\caches\9.0.0\transforms\5424edfce50be3127a85b641c5bf4dee\transformed\annotation-experimental-1.4.0\res
+com.example.santepriceindex.app-runtime-release-14 C:\Users\manoj\.gradle\caches\9.0.0\transforms\5d494264627e56f8208dc070bd8322c4\transformed\runtime-release\res
+com.example.santepriceindex.app-navigation-common-ktx-2.7.7-15 C:\Users\manoj\.gradle\caches\9.0.0\transforms\60ba848a79d351f7c530397b1b4b0916\transformed\navigation-common-ktx-2.7.7\res
+com.example.santepriceindex.app-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\manoj\.gradle\caches\9.0.0\transforms\60df8df75c102d6f4f7b08ec5c0770db\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.santepriceindex.app-navigation-common-2.7.7-17 C:\Users\manoj\.gradle\caches\9.0.0\transforms\757866a73480f14a89427b066df7973b\transformed\navigation-common-2.7.7\res
+com.example.santepriceindex.app-ui-graphics-release-18 C:\Users\manoj\.gradle\caches\9.0.0\transforms\786f6a542721a25c34b38b8f6d490eab\transformed\ui-graphics-release\res
+com.example.santepriceindex.app-navigation-compose-2.7.7-19 C:\Users\manoj\.gradle\caches\9.0.0\transforms\78de7ff3a909d715e1ee7bc7e28e08c6\transformed\navigation-compose-2.7.7\res
+com.example.santepriceindex.app-ui-tooling-preview-release-20 C:\Users\manoj\.gradle\caches\9.0.0\transforms\7adea69f9f16783cf1f2992935b468f1\transformed\ui-tooling-preview-release\res
+com.example.santepriceindex.app-ui-util-release-21 C:\Users\manoj\.gradle\caches\9.0.0\transforms\8814721962e1f7d48fcd8753f6b56d72\transformed\ui-util-release\res
+com.example.santepriceindex.app-animation-core-release-22 C:\Users\manoj\.gradle\caches\9.0.0\transforms\90bf73b23d13c5064bfdb221033269d5\transformed\animation-core-release\res
+com.example.santepriceindex.app-ui-text-release-23 C:\Users\manoj\.gradle\caches\9.0.0\transforms\94baebc7bf1b9de804f85dc4413356c1\transformed\ui-text-release\res
+com.example.santepriceindex.app-core-runtime-2.2.0-24 C:\Users\manoj\.gradle\caches\9.0.0\transforms\adf0ee385a69d678a7691c2892c74eca\transformed\core-runtime-2.2.0\res
+com.example.santepriceindex.app-activity-1.8.2-25 C:\Users\manoj\.gradle\caches\9.0.0\transforms\bb147c9e5dac527ffea15c278fcc271b\transformed\activity-1.8.2\res
+com.example.santepriceindex.app-lifecycle-viewmodel-compose-2.7.0-26 C:\Users\manoj\.gradle\caches\9.0.0\transforms\bdfbae6454e82dc30fe3d915eaa0a610\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.example.santepriceindex.app-emoji2-1.3.0-27 C:\Users\manoj\.gradle\caches\9.0.0\transforms\c11448c53c214626e289e8a89b6fca55\transformed\emoji2-1.3.0\res
+com.example.santepriceindex.app-navigation-runtime-ktx-2.7.7-28 C:\Users\manoj\.gradle\caches\9.0.0\transforms\e03a5dce65dc7334fe934d4037b03779\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.santepriceindex.app-lifecycle-runtime-2.7.0-29 C:\Users\manoj\.gradle\caches\9.0.0\transforms\e234759e7337e8090efd98b5c63bd7c3\transformed\lifecycle-runtime-2.7.0\res
+com.example.santepriceindex.app-foundation-release-30 C:\Users\manoj\.gradle\caches\9.0.0\transforms\e2ed00b80c5fe72dcf12c6883febaa51\transformed\foundation-release\res
+com.example.santepriceindex.app-material-ripple-release-31 C:\Users\manoj\.gradle\caches\9.0.0\transforms\e37aabb2f7c02ed17f13f5af282d3485\transformed\material-ripple-release\res
+com.example.santepriceindex.app-startup-runtime-1.1.1-32 C:\Users\manoj\.gradle\caches\9.0.0\transforms\e3fd0cb071b3bf8c3bc4a292803a31b7\transformed\startup-runtime-1.1.1\res
+com.example.santepriceindex.app-navigation-runtime-2.7.7-33 C:\Users\manoj\.gradle\caches\9.0.0\transforms\ed9bd56b738bbe89c9beaec0dac68bd6\transformed\navigation-runtime-2.7.7\res
+com.example.santepriceindex.app-material-icons-core-release-34 C:\Users\manoj\.gradle\caches\9.0.0\transforms\f383b2fed4e5e4518c6a4e561557390a\transformed\material-icons-core-release\res
+com.example.santepriceindex.app-lifecycle-viewmodel-ktx-2.7.0-35 C:\Users\manoj\.gradle\caches\9.0.0\transforms\f5b1c91f5d05884f514922d95cace2f6\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.santepriceindex.app-savedstate-1.2.1-36 C:\Users\manoj\.gradle\caches\9.0.0\transforms\f8e59c31da26b45e465bef937ef769df\transformed\savedstate-1.2.1\res
+com.example.santepriceindex.app-ui-unit-release-37 C:\Users\manoj\.gradle\caches\9.0.0\transforms\f9edb5202467ff3f207feea36b4fd270\transformed\ui-unit-release\res
+com.example.santepriceindex.app-foundation-layout-release-38 C:\Users\manoj\.gradle\caches\9.0.0\transforms\fb05d620cba8f637277a96d614c41b17\transformed\foundation-layout-release\res
+com.example.santepriceindex.app-core-ktx-1.12.0-39 C:\Users\manoj\.gradle\caches\9.0.0\transforms\fca9a63000ea09b35b3b54f6364ec604\transformed\core-ktx-1.12.0\res
+com.example.santepriceindex.app-lifecycle-livedata-core-2.7.0-40 C:\Users\manoj\.gradle\caches\9.0.0\transforms\fd94d04e6f4c5ef367105752ce0f8f3a\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.santepriceindex.app-animation-release-41 C:\Users\manoj\.gradle\caches\9.0.0\transforms\fe9de63e94f416b10b5e28d7ada138f6\transformed\animation-release\res
+com.example.santepriceindex.app-ui-release-42 C:\Users\manoj\.gradle\caches\9.0.0\transforms\ffd77a16dbb74f2309aa64dbc5615b98\transformed\ui-release\res
+com.example.santepriceindex.app-resValues-43 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\build\generated\res\resValues\debug
+com.example.santepriceindex.app-packageDebugResources-44 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.santepriceindex.app-packageDebugResources-45 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.santepriceindex.app-merged_res-46 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\build\intermediates\merged_res\debug
+com.example.santepriceindex.app-debug-47 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\src\debug\res
+com.example.santepriceindex.app-main-48 C:\Users\manoj\OneDrive\Desktop\Sante-Price Index\app\src\main\res
